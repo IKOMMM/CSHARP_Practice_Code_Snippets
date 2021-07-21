@@ -1,0 +1,16 @@
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 04\bin\Debug\net5.0\[OVERALL] 04.exe
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 04\bin\Debug\net5.0\[OVERALL] 04.deps.json
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 04\bin\Debug\net5.0\[OVERALL] 04.runtimeconfig.json
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 04\bin\Debug\net5.0\[OVERALL] 04.runtimeconfig.dev.json
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 04\bin\Debug\net5.0\[OVERALL] 04.dll
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 04\bin\Debug\net5.0\ref\[OVERALL] 04.dll
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 04\bin\Debug\net5.0\[OVERALL] 04.pdb
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 04\obj\Debug\net5.0\[OVERALL] 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 04\obj\Debug\net5.0\[OVERALL] 04.AssemblyInfoInputs.cache
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 04\obj\Debug\net5.0\[OVERALL] 04.AssemblyInfo.cs
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 04\obj\Debug\net5.0\[OVERALL] 04.csproj.CoreCompileInputs.cache
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 04\obj\Debug\net5.0\[OVERALL] 04.dll
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 04\obj\Debug\net5.0\ref\[OVERALL] 04.dll
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 04\obj\Debug\net5.0\[OVERALL] 04.pdb
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 04\obj\Debug\net5.0\[OVERALL] 04.genruntimeconfig.cache
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 04\obj\Debug\net5.0\[OVERALL] 04.csprojAssemblyReference.cache
