@@ -1,0 +1,15 @@
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\obj\Debug\net5.0\[OVERALL] 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\obj\Debug\net5.0\[OVERALL] 02.AssemblyInfoInputs.cache
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\obj\Debug\net5.0\[OVERALL] 02.AssemblyInfo.cs
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\obj\Debug\net5.0\[OVERALL] 02.csproj.CoreCompileInputs.cache
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\bin\Debug\net5.0\[OVERALL] 02.exe
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\bin\Debug\net5.0\[OVERALL] 02.deps.json
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\bin\Debug\net5.0\[OVERALL] 02.runtimeconfig.json
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\bin\Debug\net5.0\[OVERALL] 02.runtimeconfig.dev.json
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\bin\Debug\net5.0\[OVERALL] 02.dll
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\bin\Debug\net5.0\ref\[OVERALL] 02.dll
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\bin\Debug\net5.0\[OVERALL] 02.pdb
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\obj\Debug\net5.0\[OVERALL] 02.dll
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\obj\Debug\net5.0\ref\[OVERALL] 02.dll
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\obj\Debug\net5.0\[OVERALL] 02.pdb
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\obj\Debug\net5.0\[OVERALL] 02.genruntimeconfig.cache
