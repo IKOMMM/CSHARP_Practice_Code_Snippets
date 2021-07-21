@@ -13,3 +13,4 @@ C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 0
 C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\obj\Debug\net5.0\ref\[OVERALL] 02.dll
 C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\obj\Debug\net5.0\[OVERALL] 02.pdb
 C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\obj\Debug\net5.0\[OVERALL] 02.genruntimeconfig.cache
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\[OVERALL] 02\obj\Debug\net5.0\[OVERALL] 02.csprojAssemblyReference.cache

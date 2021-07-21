@@ -24,10 +24,16 @@ namespace _OVERALL__02
             }
             catch (DivideByZeroException)
             {
-                Console.WriteLine("You cannot divide by 0");
+                Console.WriteLine("You musn't divide by 0");
+            }
+            finally
+            {
+                Console.WriteLine("Thank you");
+
+                Console.ReadKey();
             }
 
-            Console.ReadKey();
+            
         }
     }
 }
