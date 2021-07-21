@@ -7,16 +7,17 @@ namespace _TABLE__02
         static void Main(string[] args)
         {
             int[,,,] tab = new int[5, 6, 7, 8];
+
             Random rnd = new Random();
+
             for (int i = 0; i < tab.GetLength(0); ++i)
             {
                 for (int j = 0; j < tab.GetLength(1); ++j)
                     for (int k = 0; k < tab.GetLength(2); ++k)
-                        for (int l = 0; l < tab.GetLength(3); ++l)
-                        {
-                            tab[i, j, k, l] = rnd.Next(1, 100);
-                        }                                       
+                        for (int l = 0; l < tab.GetLength(3); ++l)                        
+                            tab[i, j, k, l] = rnd.Next(1, 100);                                       
             }
+
             Print4D(tab, 10);
             Console.ReadKey();
         }
