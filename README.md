@@ -1,2 +1,2 @@
-# CSHARP_Learning_Code_Snippets
- C# Learning Code Snippets
+# C# Learning Code Snippets
+Code fragments for c # practice
