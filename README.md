@@ -19,9 +19,10 @@ Create a jagged array, which is an array whose elements are arrays. For example,
 - Task:
 Write a program that takes an integer m and prints an m-line triangle on the screen Pascal's triangle. As a reminder, there are numbers 1 on the sides of the triangle, and each remaining in the middle is formed as the sum of the two immediately above it.
 
-### 05: [TRIM SPACES FUNCTION](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/CSHARP_Practise_Code_Snippets/%5BTABLE%5D%2005/Program.cs)
+### 05: [TRIM SPACES, REVERSE TEXT, COUNT WORDS](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/CSHARP_Practise_Code_Snippets/%5BTABLE%5D%2005/Program.cs)
 - Task:
-Implement a function that removes all whitespace characters from the text passed to it as a call parameter.
+Implement a function that removes all whitespace characters from the text passed to it as a call parameter, converts the text of a call parameter into its mirror
+reflection, i.e. for "ABC" the function changes the parameter to "CBA" and returns the number of words contained in the text passed to it as a call parameter.
 
 ## OVERALL
 ### 01: [REPLACE VALUES (A=B B=A)](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/%5BOVERALL%5D%2001/Program.cs)
