@@ -1,0 +1,16 @@
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\CSHARP_Practise_Code_Snippets\[TABLE] 04\obj\Debug\net5.0\[TABLE] 04.csprojAssemblyReference.cache
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\CSHARP_Practise_Code_Snippets\[TABLE] 04\obj\Debug\net5.0\[TABLE] 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\CSHARP_Practise_Code_Snippets\[TABLE] 04\obj\Debug\net5.0\[TABLE] 04.AssemblyInfoInputs.cache
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\CSHARP_Practise_Code_Snippets\[TABLE] 04\obj\Debug\net5.0\[TABLE] 04.AssemblyInfo.cs
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\CSHARP_Practise_Code_Snippets\[TABLE] 04\obj\Debug\net5.0\[TABLE] 04.csproj.CoreCompileInputs.cache
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\CSHARP_Practise_Code_Snippets\[TABLE] 04\bin\Debug\net5.0\[TABLE] 04.exe
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\CSHARP_Practise_Code_Snippets\[TABLE] 04\bin\Debug\net5.0\[TABLE] 04.deps.json
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\CSHARP_Practise_Code_Snippets\[TABLE] 04\bin\Debug\net5.0\[TABLE] 04.runtimeconfig.json
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\CSHARP_Practise_Code_Snippets\[TABLE] 04\bin\Debug\net5.0\[TABLE] 04.runtimeconfig.dev.json
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\CSHARP_Practise_Code_Snippets\[TABLE] 04\bin\Debug\net5.0\[TABLE] 04.dll
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\CSHARP_Practise_Code_Snippets\[TABLE] 04\bin\Debug\net5.0\ref\[TABLE] 04.dll
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\CSHARP_Practise_Code_Snippets\[TABLE] 04\bin\Debug\net5.0\[TABLE] 04.pdb
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\CSHARP_Practise_Code_Snippets\[TABLE] 04\obj\Debug\net5.0\[TABLE] 04.dll
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\CSHARP_Practise_Code_Snippets\[TABLE] 04\obj\Debug\net5.0\ref\[TABLE] 04.dll
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\CSHARP_Practise_Code_Snippets\[TABLE] 04\obj\Debug\net5.0\[TABLE] 04.pdb
+C:\Users\m-musialik\Desktop\Pozostałe\CSHARP_Practise_Code_Snippets\CSHARP_Practise_Code_Snippets\[TABLE] 04\obj\Debug\net5.0\[TABLE] 04.genruntimeconfig.cache
