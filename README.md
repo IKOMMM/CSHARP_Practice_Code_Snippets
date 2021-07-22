@@ -12,6 +12,7 @@ Then print the contents of the whiteboard on the screen keeping the layout of th
 Create a 4-dimensional array of any size and populate it with whatever values you want. Then print n random elements of that table on the screen, printing 4-dimensional coordinates and the stored value. Define for printing a separate, static method that will take two parameters: the array it has to print and the number of items to be printed.
 
 ### 03: [JAGGED ARRAY 1..3..5..](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/CSHARP_Practise_Code_Snippets/%5BTABLE%5D%2003/Program.cs)
+- Task:
 Create a jagged array, which is an array whose elements are arrays. For example, you can create an array of four arrays, where the first array has only one element, the second has, say, three elements, the third has five, and so on. Initialize all arrays and their individual initialize all arrays and their individual elements, and then print them on the screen preserving the array layout (rows, columns).
 
 ## OVERALL
