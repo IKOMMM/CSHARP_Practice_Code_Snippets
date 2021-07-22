@@ -1,0 +1,67 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\m-musialik\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\m-musialik\\Desktop\\Pozostałe\\CSHARP_Practise_Code_Snippets\\CSHARP_Practise_Code_Snippets\\[TABLE] 05\\[TABLE] 05.csproj",
+      "projectName": "[TABLE] 05",
+      "projectPath": "C:\\Users\\m-musialik\\Desktop\\Pozostałe\\CSHARP_Practise_Code_Snippets\\CSHARP_Practise_Code_Snippets\\[TABLE] 05\\[TABLE] 05.csproj",
+      "packagesPath": "C:\\Users\\m-musialik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\m-musialik\\Desktop\\Pozostałe\\CSHARP_Practise_Code_Snippets\\CSHARP_Practise_Code_Snippets\\[TABLE] 05\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\m-musialik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
