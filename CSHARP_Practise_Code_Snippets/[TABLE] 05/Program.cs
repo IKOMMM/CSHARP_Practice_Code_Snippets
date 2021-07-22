@@ -10,10 +10,14 @@ namespace _TABLE__05
             string text = Console.ReadLine();
             string textAfterTrim = TrimSpaces(text);
             string textAfterReverse = ReverseText(text);
+            string textAfterUpercase = text.ToUpper();
+            int counted = CountWords(text);
 
             Console.WriteLine("Your text: {0}", text);
             Console.WriteLine("Your text after trim spaces: {0}", textAfterTrim);
             Console.WriteLine("Your text after reverse: {0}", textAfterReverse);
+            Console.WriteLine("Your text upercase: {0}", textAfterUpercase);
+            Console.WriteLine("Number of words: {0}", counted);
             Console.ReadKey();
 
         }
@@ -47,6 +51,13 @@ namespace _TABLE__05
             }
 
             return reversedTest;
+        }
+
+        static int CountWords(string text)
+        {
+            // Split the original text into strings and then count their number
+            string[] textAsArray = text.Split(' ');
+            return textAsArray.Length;
         }
 
     }
