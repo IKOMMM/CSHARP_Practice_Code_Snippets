@@ -7,11 +7,13 @@ namespace _TABLE__05
         static void Main(string[] args)
         {
             Console.WriteLine("Insert your text");
-            string textBefore = Console.ReadLine();
-            string textAfter = TrimSpaces(textBefore);
+            string text = Console.ReadLine();
+            string textAfterTrim = TrimSpaces(text);
+            string textAfterReverse = ReverseText(text);
 
-            Console.WriteLine("Your text before: {0}", textBefore);
-            Console.WriteLine("Your text after: {0}", textAfter);
+            Console.WriteLine("Your text: {0}", text);
+            Console.WriteLine("Your text after trim spaces: {0}", textAfterTrim);
+            Console.WriteLine("Your text after reverse: {0}", textAfterReverse);
             Console.ReadKey();
 
         }
@@ -30,5 +32,22 @@ namespace _TABLE__05
 
             return textWithoutSpaces;
         }
+
+        static string ReverseText(string text)
+        {
+            // Target string, to hold a reversed text
+            string reversedTest = "";
+
+            //This time we are going through the text from the back, starting from the last character
+            for(int i = text.Length - 1; i >=0; --i)
+            {
+                // Add to the new string the character located
+                // at the i-th position from the end in the original string
+                reversedTest += text[i];
+            }
+
+            return reversedTest;
+        }
+
     }
 }
