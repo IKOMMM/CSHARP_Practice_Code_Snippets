@@ -15,6 +15,10 @@ Create a 4-dimensional array of any size and populate it with whatever values yo
 - Task:
 Create a jagged array, which is an array whose elements are arrays. For example, you can create an array of four arrays, where the first array has only one element, the second has, say, three elements, the third has five, and so on. Initialize all arrays and their individual initialize all arrays and their individual elements, and then print them on the screen preserving the array layout (rows, columns).
 
+### 04: [PASCAL'S TRIANGLE](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/CSHARP_Practise_Code_Snippets/%5BTABLE%5D%2004/Program.cs)
+- Task:
+Write a program that takes an integer m and prints an m-line triangle on the screen Pascal's triangle. As a reminder, there are numbers 1 on the sides of the triangle, and each remaining in the middle is formed as the sum of the two immediately above it.
+
 ## OVERALL
 ### 01: [REPLACE VALUES (A=B B=A)](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/%5BOVERALL%5D%2001/Program.cs)
 - Task:
