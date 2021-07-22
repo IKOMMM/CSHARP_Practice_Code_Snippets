@@ -24,7 +24,7 @@ Write a program that takes an integer m and prints an m-line triangle on the scr
 - Task:
 Write a program that takes two variables, e.g. a and b, and replaces their values, that means a do the variable b assigns the value to variable a, and the variable a assigns the value to variable b. By itself the substitution should be in the situation that took place in the sales function as arguments you take two variables a and b. To get that your program works, print the contents of both new before and after the swap.
 
-### 02: [TRY...CATCH...FINALY DIVIDE BY ZERO EXCEPTION](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/%5BTABLE%5D%2002/Program.cs)
+### 02: [TRY...CATCH...FINALY DIVIDE BY ZERO EXCEPTION](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/%5BOVERALL%5D%2002/Program.cs)
 - Task:
 Write a program that takes two integers from the user, divides the first by the other and displays the result on the screen. In the case where the divisor is equal to 0, division
 will throw an exception of type DivideByZeroException which should be handled in a try ... catch ... block, so that instead of breaking the program, a message appears on the screen: "You mustn't divide by zero!". Next rewrite the program so that, apart from displaying the result or a message about divide by 0, in each case, no matter what happens, the program will also say goodbye to the user with a simple message, e.g. "Thank you!"
