@@ -42,3 +42,11 @@ function, which takes the number n as an argument and returns its power: static 
 ### 04 [EVEN, ODD, PAIR, GREATER THAN ZERO](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/%5BOVERALL%5D%2004/Program.cs)
 - Task:
 Write a programme that takes an integer, checks its evenness and prints the relevant information on the screen, takes two numbers and checks if both of them are even at the same time, and takes two numbers and checks if at least one of them is greater than zero.
+
+### 04 [EVEN, ODD, PAIR, GREATER THAN ZERO](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/%5BOVERALL%5D%2004/Program.cs)
+- Task:
+Write a programme that takes an integer, checks its evenness and prints the relevant information on the screen, takes two numbers and checks if both of them are even at the same time, and takes two numbers and checks if at least one of them is greater than zero.
+
+### 05 [FIBONACCI SEQUENCE](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/CSHARP_Practise_Code_Snippets/%5BOVERALL%5D%2005/Program.cs)
+- Task:
+Design a recursive function that computes the nth element of a Fibonacci sequence of the form: (F0 = 0, F1 = 1, . . . , Fn = Fn-1 + Fn-2).
