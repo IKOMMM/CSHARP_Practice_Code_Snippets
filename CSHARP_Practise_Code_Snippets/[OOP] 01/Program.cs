@@ -8,7 +8,6 @@ namespace _OOP__01
         {
             int numberOfEmployees;
 
-
             Console.WriteLine("Welcome in Employees  Adder v.1 2019!");
             Console.WriteLine("How many employees You want to add today?");
             Console.Write("Enter number of employees: ");
@@ -39,7 +38,6 @@ namespace _OOP__01
 
                 Console.Write("\nEnter hourly wage(in $): ");
                 workers[i].HourlyWage = float.Parse(Console.ReadLine());
-
             }
 
             //Print
@@ -50,10 +48,9 @@ namespace _OOP__01
                 Console.WriteLine("Name: " + workers[i].Name);
                 Console.WriteLine("Surname: " + workers[i].Surname);
                 Console.WriteLine("Age: " + workers[i].Age);
-                Console.WriteLine("Workplace: " + workers[i].JobPosition);
+                Console.WriteLine("Job position: " + workers[i].JobPosition);
                 Console.WriteLine("Hourly wage: " + workers[i].HourlyWage + "$");
             }
-
 
             Console.WriteLine("\n------------------------------------");
             if (Worker.NumberOfEmployees == 0 || Worker.NumberOfEmployees == 1)
@@ -101,4 +98,4 @@ namespace _OOP__01
     }
     #endregion
 }
-}
+
