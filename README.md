@@ -1,6 +1,12 @@
 # C# Practise Code Snippets in Console App
 Solved tasks for C# practice.
 
+## OOP
+### 01: [EMPLOYEES ADDER BASIC](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/CSHARP_Practise_Code_Snippets/%5BOOP%5D%2001/Program.cs)
+- Task:
+Create a class Human containing the following fields of type private: • name • surname • age. In the Main method of the program create an object of the Human class and assign values to its fields. Next create setting methods and the return values of these properties. In the Main create an object of the Human class and use methods to assign its values
+properties. Create an Worker class that extends the Human class. Define public properties: • Position • Hourly Rate. Write a method that will calculate the salary based on the number of hours worked passed in the form of a parameter. Create an object of type Worker and calculate it remuneration based on hours worked. Than create a five-element Employee type array. Data of individual employees should be entered from the console. After all employees' data has been entered the program should display them. 
+
 ## TABLES
 ### 01: [2D ARRAY 4X3](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/%5BTABLE%5D%2001/Program.cs)
 - Task:
