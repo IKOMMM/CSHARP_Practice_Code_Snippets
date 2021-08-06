@@ -7,13 +7,17 @@ namespace _OOP__03
         static void Main(string[] args)
         {
             Dog dogA = new Dog();
-            dogA.Sound = ("Wof");
-            
             Dog dogB = new Dog();
-            dogB.Sound = ("Woof Woof");
+            Cat cat = new Cat();
 
+            cat.AnimalAge();
+            cat.HowManyLegs();
+            dogA.Sound = ("Wof");
+            dogB.Sound = ("Woof Woof");
             dogA.MakeSound();
             dogB.MakeSound();
+
+            Console.WriteLine(cat.Age);
             Console.ReadKey();
         }
     }
@@ -28,7 +32,16 @@ namespace _OOP__03
     {
         void HowManyLegs();
     }
+
     #endregion
+    abstract class Animal
+    {
+        public uint Age { get; set; } = 0;
+        public void AnimalAge()
+        {
+            ++Age;
+        }
+    }
 
     class Dog : IMakingSound, ILand
     {
@@ -40,6 +53,15 @@ namespace _OOP__03
         public void HowManyLegs()
         {
             Console.WriteLine("Dog Has 4 legs");
+        }
+    }
+
+    class Cat : Animal, ILand
+    {
+        public string Sound { get; set; }
+        public void HowManyLegs()
+        {
+            Console.WriteLine("Cat Has 4 legs");
         }
     }
 }
