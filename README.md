@@ -1,5 +1,5 @@
 # C# Practise Code Snippets in Console App
-Solved tasks for C# practice.
+Over 20 Solved tasks for C# practice.
 
 ## OOP
 ### 01: [EMPLOYEES ADDER BASIC](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/CSHARP_Practise_Code_Snippets/%5BOOP%5D%2001/Program.cs)
@@ -52,10 +52,6 @@ will throw an exception of type DivideByZeroException which should be handled in
 - Task:
 Write a program that counts factorial of an integer n given by the user and and then prints it out on the screen. The power itself should be counted in a separate static
 function, which takes the number n as an argument and returns its power: static int Factorial(int factorialToCount). In case the user tries to type something other than an integer into n, the program should throw an unhandled exception of type ArgumentException.
-
-### 04 [EVEN, ODD, PAIR, GREATER THAN ZERO](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/%5BOVERALL%5D%2004/Program.cs)
-- Task:
-Write a programme that takes an integer, checks its evenness and prints the relevant information on the screen, takes two numbers and checks if both of them are even at the same time, and takes two numbers and checks if at least one of them is greater than zero.
 
 ### 04 [EVEN, ODD, PAIR, GREATER THAN ZERO](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/%5BOVERALL%5D%2004/Program.cs)
 - Task:
