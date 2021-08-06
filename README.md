@@ -11,6 +11,10 @@ properties. Create an Worker class that extends the Human class. Define public p
 - Task:
 Completed and functional geometric field calculator. Create an interface called IFigure. Add a Return Field method to it an float and taking two parameters of type float. Create two classes implementing the interface: Rectangle and Square. Task upgraded to generate Circle, Trapeze, Triangle, Parallelogram and to get user input. 
 
+### 03: [ABSTRACT ANIMAL](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/CSHARP_Practise_Code_Snippets/%5BOOP%5D%2003/Program.cs)
+- Task:
+Create an interface named IMakingSound with the method MakeSound called without arguments and returns type void, and a second interface named ILand with method HowManyLegs also called without arguments and returning type void. Create a Dog class that implements both interfaces at the same time and contains a Sound property of type string, then create a sample object of this class and call both functions mentioned above. Than create an abstract class named Animal containing age property of type uint and a method called IncreaseAge with no arguments and returning type void. Create an interface named ILadowy with method HowMuchLegs called method called without arguments and returning type void. Create a class Cat that simultaneously inherits from Animal class and implements the ILad interface. Create a sample object of this class and test it.
+
 ## TABLES
 ### 01: [2D ARRAY 4X3](https://github.com/IKOMMM/CSHARP_Practice_Code_Snippets/blob/main/%5BTABLE%5D%2001/Program.cs)
 - Task:
